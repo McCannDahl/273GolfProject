@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GolfProject</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="clubs">
+        <item>Driver</item>
+        <item>2 Wood</item>
+        <item>3 Wood</item>
+        <item>4 Wood</item>
+        <item>5 Wood</item>
+        <item>6 Wood</item>
+        <item>7 Wood</item>
+        <item>3 Iron</item>
+        <item>4 Iron</item>
+        <item>5 Iron</item>
+        <item>6 Iron</item>
+        <item>7 Iron</item>
+        <item>8 Iron</item>
+        <item>9 Iron</item>
+        <item>Wedge</item>
+        <item>Chuck Norris</item>
+    </string-array>
+</resources>
